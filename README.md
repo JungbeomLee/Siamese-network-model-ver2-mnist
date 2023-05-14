@@ -1,12 +1,10 @@
 # Siamese-network-model-ver2-mnist
-***
 > Siamenetwork 구조를 적용한 모델 학습 프로젝트이다.
 
 > mnist dataset을 활용하여 한쌍의 숫자 이미지에 대한 유사도를 판별한다.
 
 
 # 사전 학습 모델 사용 방법
-***
 ```
 Only_Siamese_network_ver2_testing_code.ipynb 
 ```
@@ -16,7 +14,6 @@ Only_Siamese_network_ver2_testing_code.ipynb
 create_Siamese_network_ver2.py
 ```
 > 위 파일을 사용하여 모델을 생성한 뒤, 모델의 가중치 파일을 적용하여 사용할 수 있다.
-***
 
 
 # 데이터셋 mnist
