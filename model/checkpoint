@@ -1,0 +1,2 @@
+model_checkpoint_path: "weight_of_only_siamese_network_addEuclideanDistance"
+all_model_checkpoint_paths: "weight_of_only_siamese_network_addEuclideanDistance"
